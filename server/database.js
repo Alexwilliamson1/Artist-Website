@@ -13,6 +13,7 @@ const databasePath = process.env.DB_PATH || localDatabase;
 
 if (process.env.DB_PATH && !fs.existsSync(databasePath)) {
     fs.copyFileSync(localDatabase, databasePath);
+}
 
 const database = new Database(databasePath);
 
