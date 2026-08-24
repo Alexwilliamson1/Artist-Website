@@ -1,0 +1,369 @@
+:root {
+    font-family: Helvetica, Arial, sans-serif;
+    color: #181818;
+    background: #fff;
+    /* Previous background: #f6f4ef */
+}
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+}
+
+button,
+audio,
+video {
+    font: inherit;
+}
+
+a {
+    color: inherit;
+}
+
+.site-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    gap: 2rem;
+    padding: 1.2rem 4vw;
+    border-bottom: 1px solid #c9c5bd;
+}
+
+.artist-name {
+    font-size: 1.68rem;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.site-header nav {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1.5rem;
+}
+
+.site-header nav a {
+    text-decoration: none;
+    font-size: 1rem;
+    font-weight: normal;
+    padding: 0rem 0;
+    /*padding-top: 0.5rem;
+    padding-bottom: 0.5rem;*/
+}
+
+.site-header nav a:hover,
+.site-header nav a:focus {
+    text-decoration: underline;
+}
+
+main {
+    width: min(1200px, 92vw);
+    margin: 0 auto;
+    padding: 3rem 0 5rem;
+}
+
+.home-page h1 {
+    margin: 4rem 0 2rem;
+    font-size: clamp(5rem, 9.5vw, 10rem);
+    font-weight: normal;
+}
+
+.home-links {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 24px;
+    margin-top: 30px;
+    margin-bottom: 50px;
+}
+
+@media (max-width: 800px) {
+    .home-links {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+@media (max-width: 500px) {
+    .home-links {
+        grid-template-columns: 1fr;
+    }
+}
+
+.home-link {
+    display: flex;
+    flex-direction: column;
+    text-decoration: none;
+    color: inherit;
+}
+
+.home-link img {
+    width: 100%;
+    height: 300px;
+    object-fit: cover;
+    display: block;
+}
+
+.home-link span {
+    margin-top: 8px;
+    margin-bottom: 5px;
+    font-size: 1.3rem;
+    text-decoration: underline;
+}
+
+.other-media-links {
+    display: flex;
+    flex-direction: column;
+    gap: 0.8rem;
+    margin-top: 1.5rem;
+}
+
+.other-media-links a {
+    width: fit-content;
+    font-size: 1.2rem;
+    font-weight: normal;
+    text-decoration: none;
+}
+
+.other-media-links a:hover,
+.other-media-links a:focus-visible {
+    text-decoration: underline;
+}
+
+.artist-statement {
+    max-width: 750px;
+    font-size: 1.2rem;
+    line-height: 1.7;
+}
+
+.artwork-category-title {
+    margin: 1rem 0 2rem;
+    font-size: 1.82rem; /*clamp(1rem, 2.7vw, 3rem);*/
+    font-weight: bold;
+    /*margin-bottom: 2rem;*/
+}
+
+.other-media-title {
+    margin: 1rem 0 2rem;
+    font-size: 1.82rem;
+    font-weight: bold;
+}
+
+.cv-title {
+    margin: 1.1rem 0 2rem;
+    font-size: 1.82rem;
+    font-weight: bold;
+    /*margin-top: 1.3rem;*/
+    margin-bottom: 2rem;
+}
+
+.cv-section {
+    margin: 1rem 0 2rem;
+    font-size: 1.2rem; 
+    font-weight: bold;
+    margin-top: 1.4rem;
+    margin-bottom: 1.1rem;
+}
+
+.biography-title {
+    margin: 1rem 0 2rem;
+    font-size: 1.82rem;
+    font-weight: bold;
+    margin-bottom: 2rem;
+}
+
+.music-title {
+    margin: 1rem 0 2rem;
+    font-size: 1.82rem;
+    font-weight: bold;
+    margin-bottom: 2rem;
+}
+
+.artwork-grid {
+    display: grid;
+    grid-template-columns:
+        repeat(auto-fit, minmax(240px, 1fr));
+    gap: 2rem;
+}
+
+.artwork-card {
+    padding: 0;
+    border: 0;
+    background: transparent;
+    text-align: left;
+    cursor: pointer;
+}
+
+.artwork-card img {
+    display: block;
+    width: 100%;
+    aspect-ratio: 4 / 3;
+    object-fit: cover;
+    margin-bottom: 0.75rem;
+}
+
+.artwork-card:hover img,
+.artwork-card:focus-visible img {
+    opacity: 0.8;
+}
+
+.modal-background {
+    position: fixed;
+    inset: 0;
+    z-index: 100;
+    display: grid;
+    place-items: center;
+    padding: 2rem;
+    overflow-y: auto;
+    background: rgba(0, 0, 0, 0.82);
+}
+
+.artwork-modal {
+    position: relative;
+    width: min(1000px, 100%);
+    padding: 1.5rem;
+    background: #fff;
+    /* Previous background: #f6f4ef */
+}
+
+.artwork-modal img {
+    display: block;
+    max-width: 100%;
+    max-height: 70vh;
+    margin: 0 auto;
+}
+
+.artwork-information {
+    max-width: 700px;
+    margin-top: 1.5rem; /* 1.5rem */
+    padding-left: 0rem;
+}
+
+.artwork-information h2 {
+    margin: 0 0 0.4rem; /* 0 0 0.4rem */
+    font-size: 1.1rem; /* 1.1rem */
+    font-weight: normal;
+}
+
+.artwork-information p {
+    margin: 0.1rem 0;
+    font-size: 1rem; /* 1rem */
+    line-height: 1.4;
+}
+
+.close-button {
+    position: absolute;
+    top: 0.5rem;
+    right: 0.75rem;
+    z-index: 1;
+    border: 0;
+    background: transparent;
+    font-size: 2.5rem;
+    cursor: pointer;
+}
+
+.biography {
+    max-width: 750px;
+}
+
+.biography p {
+    font-size: 1.2rem;
+    line-height: 1.7;
+}
+
+.cv {
+    max-width: 750px;
+}
+
+.cv h2 {
+    margin-top: 2.5rem;
+    margin-bottom: 1rem;    
+    font-size: 1.4rem;
+}
+
+.cv p {
+    margin: 0 0 0.6rem;
+    /*font-size: 1.2rem;*/
+    line-height: 1.5;
+}
+
+.song-list {
+    max-width: 750px;
+    padding: 0;
+    list-style-position: inside;
+}
+
+.song-list li {
+    border-top: 1px solid #c9c5bd;
+}
+
+.song-list li:last-child {
+    border-bottom: 1px solid #c9c5bd;
+}
+
+.song-list button {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    padding: 1rem 0;
+    border: 0;
+    background: transparent;
+    cursor: pointer;
+}
+
+.song-list button:hover,
+.song-list button:focus-visible {
+    text-decoration: underline;
+}
+
+.audio-player {
+    max-width: 750px;
+    margin-top: 3rem;
+}
+
+.audio-player audio {
+    width: 100%;
+}
+
+.video-list {
+    display: grid;
+    gap: 4rem;
+}
+
+.video-list article {
+    max-width: 900px;
+}
+
+.video-list video {
+    display: block;
+    width: 100%;
+    background: #000;
+}
+
+.writing-list {
+    display: grid;
+    gap: 3rem;
+    max-width: 750px;
+}
+
+.writing-list article {
+    padding-bottom: 2rem;
+    border-bottom: 1px solid #c9c5bd;
+    line-height: 1.7;
+}
+
+.excerpt {
+    font-size: 1.2rem;
+    font-style: italic;
+}
+
+@media (max-width: 650px) {
+    .site-header {
+        align-items: flex-start;
+        flex-direction: column;
+    }
+
+    .modal-background {
+        padding: 0.75rem;
+    }
+}
