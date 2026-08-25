@@ -173,6 +173,4 @@ app.listen(PORT, error => {
 	}
 
     	console.log(`Server running on port ${PORT}`);
-    	console.log(`Use the following URL to test the server:`);
-    	console.log(`http://localhost:5173`);
 });
