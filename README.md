@@ -6,4 +6,4 @@ Artist Website is a web application for showing my artwork, including paintings,
 
 ## Instructions:
 
-A link to the live application will be available once deployment is complete.
+Type artist-website-production.up.railway.app into the address bar of a browser.
