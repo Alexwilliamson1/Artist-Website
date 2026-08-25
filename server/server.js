@@ -1,7 +1,7 @@
 const express = require('express') 
 const path = require('path');
 const database = require('./database');
-const clientDist = path.join(__dirname, "client", "dist");
+const clientDist = path.join(__dirname, "..", "client", "dist");
 
 const app = express()
 const PORT = process.env.PORT || 8080 
