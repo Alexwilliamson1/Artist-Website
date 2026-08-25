@@ -7,7 +7,7 @@ const dataDirectory = path.join(__dirname, 'data');
 fs.mkdirSync(dataDirectory, { recursive: true });
 
 // SQLite creates this file if it does not already exist.
-const localDatabase = path.join(__dirname, "art.db");
+const localDatabase = path.join(dataDirectory, "art.db");
 
 const databasePath = process.env.DB_PATH || localDatabase;
 
