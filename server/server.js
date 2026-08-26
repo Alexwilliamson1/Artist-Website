@@ -34,7 +34,7 @@ const videos = [
 		title: 'Video',
 		year: 2013,
 		description: 'Video.',
-		videoUrl: '/media/video/video.mp4',
+		videoUrl: '/media/videos/video.mp4',
 		posterUrl: '/media/images/video.jpg'
     	}
 ];
@@ -172,5 +172,5 @@ app.listen(PORT, error => {
 	  	return;
 	}
 
-    	console.log(`Server running on port ${PORT}`);
+    	console.log(`The server is running on port ${PORT}.`);
 });
