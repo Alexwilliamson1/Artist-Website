@@ -31,7 +31,7 @@ const songs = [
 		title: 'Mama, I\'m On Your Doorstep',
 		year: 2012,
 		description: 'Song.',
-		audioUrl: '/media/audio/mamai\'monyourdoorstep.wav'
+		audioUrl: '/media/audio/mamaimonyourdoorstep.wav'
     	},
 	{
 		id: 4,
@@ -45,14 +45,14 @@ const songs = [
 		title: 'Darling, It Ain\'t No Use',
 		year: 2012,
 		description: ' ',
-		audioUrl: '/media/audio/darlingitain\'tnouse.wav'
+		audioUrl: '/media/audio/darling,itaintnouse.wav'
     	},
 	{
 		id: 6,
 		title: 'Jumpin\' Jack Flash',
 		year: 2012,
 		description: ' ',
-		audioUrl: '/media/audio/jumpin\'jackflash.wav'
+		audioUrl: '/media/audio/jumpinjackflash.wav'
     	},
 	{
 		id: 7,
@@ -66,7 +66,7 @@ const songs = [
 		title: 'You\'re Gonna Make Me Lonesome When You Go',
 		year: 2012,
 		description: ' ',
-		audioUrl: '/media/audio/you\'regonnamakemelonesomewhenyougo.wav'
+		audioUrl: '/media/audio/youregonnamakemelonesomewhenyougo.wav'
     	},
 	{
 		id: 9,
@@ -101,7 +101,7 @@ const songs = [
 		title: 'Mama You\'ve Been On My Mind',
 		year: 2012,
 		description: ' ',
-		audioUrl: '/media/audio/mamayou\'vebeenonmymind.wav'
+		audioUrl: '/media/audio/mamayouvebeenonmymind.wav'
     	},
 	{
 		id: 14,
