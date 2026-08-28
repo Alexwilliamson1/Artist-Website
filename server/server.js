@@ -14,17 +14,129 @@ app.use('/media', express.static(path.join(__dirname, 'media')));
 const songs = [
     	{
 		id: 1,
-		title: 'Song 1',
-		year: 2011,
-		description: 'Song.',
-		audioUrl: '/media/audio/first-song.mp3'
+		title: 'Fare Thee Well',
+		year: 2012,
+		description: ' ',
+		audioUrl: '/media/audio/faretheewell.wav'
     	},
     	{
 		id: 2,
-		title: 'Song 2',
+		title: 'Do Re Mi',
 		year: 2012,
 		description: 'Song.',
 		audioUrl: '/media/audio/second-song.mp3'
+    	},
+	{
+		id: 3,
+		title: 'Mama, I\'m On Your Doorstep',
+		year: 2012,
+		description: 'Song.',
+		audioUrl: '/media/audio/mamai\'monyourdoorstep.wav'
+    	},
+	{
+		id: 4,
+		title: 'Baltimore to Washington',
+		year: 2012,
+		description: ' ',
+		audioUrl: '/media/audio/baltimoretowashington.wav'
+	},
+	{
+		id: 5,
+		title: 'Darling, It Ain\'t No Use',
+		year: 2012,
+		description: ' ',
+		audioUrl: '/media/audio/darlingitain\'tnouse.wav'
+    	},
+	{
+		id: 6,
+		title: 'Supermarkets and Limousines',
+		year: 2012,
+		description: ' ',
+		audioUrl: '/media/audio/supermarketsandlimousines.wav'
+    	},
+	{
+		id: 7,
+		title: 'You\'re Gonna Make Me Lonesome When You Go',
+		year: 2012,
+		description: ' ',
+		audioUrl: '/media/audio/you\'regonnamakemelonesomewhenyougo.wav'
+    	},
+	{
+		id: 8,
+		title: 'Hard Travellin\'',
+		year: 2012,
+		description: ' ',
+		audioUrl: '/media/audio/hardtravellin.wav'
+    	},
+	{
+		id: 9,
+		title: 'Bide My Time',
+		year: 2012,
+		description: ' ',
+		audioUrl: '/media/audio/bidemytime.wav'
+    	},
+	{
+		id: 10,
+		title: 'Mama You\'ve Been On My Mind',
+		year: 2012,
+		description: ' ',
+		audioUrl: '/media/audio/mamayou\'vebeenonmymind.wav'
+    	},
+	{
+		id: 11,
+		title: 'Oregon Trail',
+		year: 2012,
+		description: ' ',
+		audioUrl: '/media/audio/oregontrail.wav'
+    	},
+	{
+		id: 12,
+		title: 'Rambler, Gambler',
+		year: 2012,
+		description: ' ',
+		audioUrl: '/media/audio/ramblergambler.wav'
+    	},
+	{
+		id: 13,
+		title: 'Gospel Plow',
+		year: 2012,
+		description: ' ',
+		audioUrl: '/media/audio/gospelplow.wav'
+    	},
+	{
+		id: 14,
+		title: 'Long Time Girl',
+		year: 2012,
+		description: ' ',
+		audioUrl: '/media/audio/longtimegirl.wav'
+    	},
+	{
+		id: 15,
+		title: 'Poncho and Lefty',
+		year: 2012,
+		description: ' ',
+		audioUrl: '/media/audio/ponchoandlefty.wav'
+    	},
+	{
+		id: 16,
+		title: 'By the Clear Blue Picture of a Church',
+		year: 2012,
+		description: ' ',
+		audioUrl: '/media/audio/bytheclearbluepictureofachurch.wav'
+    	},
+	{
+		id: 17,
+		title: 'The Boxer',
+		year: 2012,
+		description: ' ',
+		audioUrl: '/media/audio/theboxer.wav'
+    	},
+	{
+		id: 18,
+		title: 'Abandoned Love',
+		year: 2012,
+		description: ' ',
+		audioUrl: '/media/audio/abandonedlove.wav'
     	}
 ];
 
