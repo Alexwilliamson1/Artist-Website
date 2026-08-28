@@ -48,133 +48,133 @@ const songs = [
 		audioUrl: '/media/audio/darlingitain\'tnouse.wav'
     	},
 	{
-		id: 8,
+		id: 6,
 		title: 'Jumpin\' Jack Flash',
 		year: 2012,
 		description: ' ',
 		audioUrl: '/media/audio/jumpin\'jackflash.wav'
     	},
 	{
-		id: 6,
+		id: 7,
 		title: 'Supermarkets and Limousines',
 		year: 2012,
 		description: ' ',
 		audioUrl: '/media/audio/supermarketsandlimousines.wav'
     	},
 	{
-		id: 7,
+		id: 8,
 		title: 'You\'re Gonna Make Me Lonesome When You Go',
 		year: 2012,
 		description: ' ',
 		audioUrl: '/media/audio/you\'regonnamakemelonesomewhenyougo.wav'
     	},
 	{
-		id: 8,
+		id: 9,
 		title: 'Hard Travellin\'',
 		year: 2012,
 		description: ' ',
 		audioUrl: '/media/audio/hardtravellin.wav'
     	},
 	{
-		id: 8,
+		id: 10,
 		title: '(Marie\'s the Name) His Latest Flame',
 		year: 2012,
 		description: ' ',
 		audioUrl: '/media/audio/hislatestflame.wav'
     	},
 	{
-		id: 9,
+		id: 11,
 		title: 'Lily of the West',
 		year: 2012,
 		description: ' ',
 		audioUrl: '/media/audio/lilyofthewest.wav'
     	},
 	{
-		id: 10,
+		id: 12,
 		title: 'Bide My Time',
 		year: 2012,
 		description: ' ',
 		audioUrl: '/media/audio/bidemytime.wav'
     	},
 	{
-		id: 11,
+		id: 13,
 		title: 'Mama You\'ve Been On My Mind',
 		year: 2012,
 		description: ' ',
 		audioUrl: '/media/audio/mamayou\'vebeenonmymind.wav'
     	},
 	{
-		id: 8,
+		id: 14,
 		title: 'The Travel Song',
 		year: 2012,
 		description: ' ',
 		audioUrl: '/media/audio/thetravelsong.wav'
     	},
 	{
-		id: 12,
+		id: 15,
 		title: 'Oregon Trail',
 		year: 2012,
 		description: ' ',
 		audioUrl: '/media/audio/oregontrail.wav'
     	},
 	{
-		id: 8,
+		id: 16,
 		title: 'Song for a Songbird',
 		year: 2012,
 		description: ' ',
 		audioUrl: '/media/audio/songforasongbird.wav'
     	},
 	{
-		id: 13,
+		id: 17,
 		title: 'Rambler, Gambler',
 		year: 2012,
 		description: ' ',
 		audioUrl: '/media/audio/ramblergambler.wav'
     	},
 	{
-		id: 8,
+		id: 18,
 		title: 'In Cold Blood',
 		year: 2012,
 		description: ' ',
 		audioUrl: '/media/audio/incoldblood.wav'
     	},
 	{
-		id: 14,
+		id: 19,
 		title: 'Gospel Plow',
 		year: 2012,
 		description: ' ',
 		audioUrl: '/media/audio/gospelplow.wav'
     	},
 	{
-		id: 15,
+		id: 20,
 		title: 'Long Time Girl',
 		year: 2012,
 		description: ' ',
 		audioUrl: '/media/audio/longtimegirl.wav'
     	},
 	{
-		id: 16,
+		id: 21,
 		title: 'Poncho and Lefty',
 		year: 2012,
 		description: ' ',
 		audioUrl: '/media/audio/ponchoandlefty.wav'
     	},
 	{
-		id: 17,
+		id: 22,
 		title: 'By the Clear Blue Picture of a Church',
 		year: 2012,
 		description: ' ',
 		audioUrl: '/media/audio/bytheclearbluepictureofachurch.wav'
     	},
 	{
-		id: 18,
+		id: 23,
 		title: 'The Boxer',
 		year: 2012,
 		description: ' ',
 		audioUrl: '/media/audio/theboxer.wav'
     	},
 	{
-		id: 19,
+		id: 24,
 		title: 'Abandoned Love',
 		year: 2012,
 		description: ' ',
