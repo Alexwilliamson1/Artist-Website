@@ -119,6 +119,13 @@ const songs = [
     	},
 	{
 		id: 16,
+		title: 'Hallelujah',
+		year: 2012,
+		description: ' ',
+		audioUrl: '/media/audio/hallelujah.wav'
+    	},
+	{
+		id: 16,
 		title: 'Song for a Songbird',
 		year: 2012,
 		description: ' ',
