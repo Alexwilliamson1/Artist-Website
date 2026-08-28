@@ -24,7 +24,7 @@ const songs = [
 		title: 'Do Re Mi',
 		year: 2012,
 		description: 'Song.',
-		audioUrl: '/media/audio/second-song.mp3'
+		audioUrl: '/media/audio/doremi.wav'
     	},
 	{
 		id: 3,
