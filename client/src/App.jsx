@@ -394,7 +394,6 @@ function CV() {
 
             <h1 className="cv-section">Exhibition History</h1>
 
-	    {/* <p>Open Studio, Cite Des Arts, Paris, 2014</p> */}
             <p>General Artist Exhibition, Orange Art Gallery, Ottawa, 2014</p>
             <p>Rivet 4, OCADU Student Press, Toronto, 2013</p>
             <p>Figureworks 2013, St. Brigid’s Centre for the Arts, Ottawa, 2013</p>
