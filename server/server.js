@@ -168,7 +168,7 @@ const songs = [
     	},
 	{
 		id: 22,
-		title: 'By the Clear Blue Picture of a Church',
+		title: 'Clear Blue Picture of a Church',
 		year: 2011,
 		description: ' ',
 		audioUrl: '/media/audio/bytheclearbluepictureofachurch.wav'
