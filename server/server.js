@@ -16,48 +16,48 @@ const songs = [
 		id: 1,
 		title: 'Fare Thee Well',
 		year: 2012,
-		description: ' ',
+		description: 'Cover',
 		audioUrl: '/media/audio/faretheewell.wav'
     	},
     	{
 		id: 2,
 		title: 'Do Re Mi',
 		year: 2012,
-		description: 'Song.',
+		description: 'Cover',
 		audioUrl: '/media/audio/doremi.wav'
     	},
 	{
 		id: 3,
 		title: 'Mama, I\'m On Your Doorstep',
-		year: 2012,
-		description: 'Song.',
+		year: 2011,
+		description: ' ',
 		audioUrl: '/media/audio/mamaimonyourdoorstep.wav'
     	},
 	{
 		id: 4,
 		title: 'Baltimore to Washington',
 		year: 2012,
-		description: ' ',
+		description: 'Cover',
 		audioUrl: '/media/audio/baltimoretowashington.wav'
 	},
 	{
 		id: 5,
 		title: 'Darling, It Ain\'t No Use',
-		year: 2012,
+		year: 2010,
 		description: ' ',
 		audioUrl: '/media/audio/darling,itaintnouse.wav'
     	},
 	{
 		id: 6,
 		title: 'Jumpin\' Jack Flash',
-		year: 2012,
-		description: ' ',
+		year: 2011,
+		description: 'Cover',
 		audioUrl: '/media/audio/jumpinjackflash.wav'
     	},
 	{
 		id: 7,
 		title: 'Supermarkets and Limousines',
-		year: 2012,
+		year: 2011,
 		description: ' ',
 		audioUrl: '/media/audio/supermarketsandlimousines.wav'
     	},
@@ -65,28 +65,28 @@ const songs = [
 		id: 8,
 		title: 'You\'re Gonna Make Me Lonesome When You Go',
 		year: 2012,
-		description: ' ',
+		description: 'Cover',
 		audioUrl: '/media/audio/youregonnamakemelonesomewhenyougo.wav'
     	},
 	{
 		id: 9,
 		title: 'Hard Travellin\'',
 		year: 2012,
-		description: ' ',
+		description: 'Cover',
 		audioUrl: '/media/audio/hardtravellin.wav'
     	},
 	{
 		id: 10,
 		title: '(Marie\'s the Name) His Latest Flame',
 		year: 2012,
-		description: ' ',
+		description: 'Cover',
 		audioUrl: '/media/audio/hislatestflame.wav'
     	},
 	{
 		id: 11,
 		title: 'Lily of the West',
-		year: 2012,
-		description: ' ',
+		year: 2011,
+		description: 'Cover',
 		audioUrl: '/media/audio/lilyofthewest.wav'
     	},
 	{
@@ -99,8 +99,8 @@ const songs = [
 	{
 		id: 13,
 		title: 'Mama You\'ve Been On My Mind',
-		year: 2012,
-		description: ' ',
+		year: 2010,
+		description: 'Cover',
 		audioUrl: '/media/audio/mamayouvebeenonmymind.wav'
     	},
 	{
@@ -114,13 +114,13 @@ const songs = [
 		id: 15,
 		title: 'Oregon Trail',
 		year: 2012,
-		description: ' ',
+		description: 'Cover',
 		audioUrl: '/media/audio/oregontrail.wav'
     	},
 	{
 		id: 16,
 		title: 'Hallelujah',
-		year: 2012,
+		year: 2011,
 		description: ' ',
 		audioUrl: '/media/audio/hallelujah.wav'
     	},
@@ -134,8 +134,8 @@ const songs = [
 	{
 		id: 17,
 		title: 'Rambler, Gambler',
-		year: 2012,
-		description: ' ',
+		year: 2010,
+		description: 'Cover',
 		audioUrl: '/media/audio/ramblergambler.wav'
     	},
 	{
@@ -148,14 +148,14 @@ const songs = [
 	{
 		id: 19,
 		title: 'Gospel Plow',
-		year: 2012,
-		description: ' ',
+		year: 2011,
+		description: 'Cover',
 		audioUrl: '/media/audio/gospelplow.wav'
     	},
 	{
 		id: 20,
 		title: 'Long Time Girl',
-		year: 2012,
+		year: 2010,
 		description: ' ',
 		audioUrl: '/media/audio/longtimegirl.wav'
     	},
@@ -163,13 +163,13 @@ const songs = [
 		id: 21,
 		title: 'Poncho and Lefty',
 		year: 2012,
-		description: ' ',
+		description: 'Cover',
 		audioUrl: '/media/audio/ponchoandlefty.wav'
     	},
 	{
 		id: 22,
 		title: 'By the Clear Blue Picture of a Church',
-		year: 2012,
+		year: 2011,
 		description: ' ',
 		audioUrl: '/media/audio/bytheclearbluepictureofachurch.wav'
     	},
@@ -177,14 +177,14 @@ const songs = [
 		id: 23,
 		title: 'The Boxer',
 		year: 2012,
-		description: ' ',
+		description: 'Cover',
 		audioUrl: '/media/audio/theboxer.wav'
     	},
 	{
 		id: 24,
 		title: 'Abandoned Love',
 		year: 2012,
-		description: ' ',
+		description: 'Cover',
 		audioUrl: '/media/audio/abandonedlove.wav'
     	}
 ];
