@@ -193,17 +193,9 @@ const videos = [
     	{
 		id: 1,
 		title: 'Video',
-		year: 2013,
+		year: ,
 		description: 'Video.',
 		videoUrl: '/media/videos/video.mp4',
-		posterUrl: '/media/images/video.jpg'
-    	},
-	{
-		id: 2,
-		title: 'Video 2',
-		year: 2013,
-		description: 'Video.',
-		videoUrl: '/media/videos/video2.mp4',
 		posterUrl: '/media/images/video.jpg'
     	}
 ];
