@@ -6,7 +6,7 @@ const clientDist = path.join(__dirname, "..", "client", "dist");
 const app = express();
 const PORT = process.env.PORT || 3000;
 
-//Middleware
+//Middleware:
 app.use(express.json());
 app.use(express.static(clientDist));
 app.use('/media', express.static(path.join(__dirname, 'media')));
@@ -191,12 +191,12 @@ const songs = [
 
 const videos = [
     	{
-		id: 1,
-		title: 'Video',
-		year: ,
-		description: 'Video.',
-		videoUrl: '/media/videos/video.mp4',
-		posterUrl: '/media/images/video.jpg'
+		//id: 1,
+		//title: 'Video',
+		//year: 2013,
+		//description: 'Video.',
+		//videoUrl: '/media/videos/video.mp4',
+		//posterUrl: '/media/images/video.jpg'
     	}
 ];
 
