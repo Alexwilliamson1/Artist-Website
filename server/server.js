@@ -11,6 +11,7 @@ app.use(express.json());
 app.use(express.static(clientDist));
 app.use('/media', express.static(path.join(__dirname, 'media')));
 
+//JSON data for recordings on the Music page:
 const songs = [
     	{
 		id: 1,
@@ -191,23 +192,23 @@ const songs = [
 
 const videos = [
     	{
-		//id: 1,
-		//title: 'Video',
-		//year: 2013,
-		//description: 'Video.',
-		//videoUrl: '/media/videos/video.mp4',
-		//posterUrl: '/media/images/video.jpg'
+		id: 1,
+		title: 'Video',
+		year: 2013,
+		description: ' ',
+		videoUrl: '/media/videos/video.mp4',
+		posterUrl: '/media/images/video.jpg'
     	}
 ];
 
 const writings = [
     	{
 		id: 1,
-		title: 'Notes on Painting and Sound',
-		year: 2025,
-		excerpt: 'An essay about relationships between visual and musical form.',
+		title: 'Title',
+		year: 2013,
+		excerpt: 'Excerpt.',
 		body:
-		    'The paintings and recordings developed together. Repetition, rhythm, silence, and colour became related methods of organizing experience.'
+		    'Body.'
     	}
 ];
 
