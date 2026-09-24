@@ -172,7 +172,7 @@ const songs = [
 		title: 'Froggie Went a Courtin\'',
 		year: 2012,
 		description: ' ',
-		audioUrl: '/media/audio/froggiewentacourtin.wav'
+		audioUrl: '/media/audio/froggywentacourtin.wav'
     	},
 	{
 		id: 24,
