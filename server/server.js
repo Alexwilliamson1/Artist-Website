@@ -18,7 +18,7 @@ const songs = [
 		title: 'Fare Thee Well',
 		year: 2012,
 		description: 'Cover',
-		audioUrl: '/media/audio/faretheewell.wav'
+		audioUrl: '/media/audio/faretheewell.mp3'
     	},
     	{
 		id: 2,
