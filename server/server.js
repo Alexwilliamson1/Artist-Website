@@ -81,7 +81,7 @@ const songs = [
 		title: 'Bedside Table',
 		year: 2010,
 		description: ' ',
-		audioUrl: '/media/audio/bedsidetable.wav'
+		audioUrl: '/media/audio/bedsidetable.mp3'
     	},
 	{
 		id: 11,
