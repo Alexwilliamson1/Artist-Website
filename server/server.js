@@ -148,76 +148,69 @@ const songs = [
     	},
 	{
 		id: 20,
-		title: 'One Too Many Mornings',
-		year: 2010,
-		description: ' ',
-		audioUrl: '/media/audio/onetoomanymornings.wav'
-    	},
-	{
-		id: 21,
 		title: 'Song for a Songbird',
 		year: 2012,
 		description: ' ',
 		audioUrl: '/media/audio/songforasongbird.wav'
     	},
 	{
-		id: 22,
+		id: 21,
 		title: 'Rambler, Gambler',
 		year: 2010,
 		description: 'Cover',
 		audioUrl: '/media/audio/ramblergambler.wav'
     	},
 	{
-		id: 23,
+		id: 22,
 		title: 'In Cold Blood',
 		year: 2012,
 		description: ' ',
 		audioUrl: '/media/audio/incoldblood.wav'
     	},
 	{
-		id: 24,
+		id: 23,
 		title: 'Froggie Went a Courtin\'',
 		year: 2012,
 		description: ' ',
 		audioUrl: '/media/audio/froggywentacourtin.wav'
     	},
 	{
-		id: 25,
+		id: 24,
 		title: 'Gospel Plow',
 		year: 2011,
 		description: 'Cover',
 		audioUrl: '/media/audio/gospelplow.wav'
     	},
 	{
-		id: 26,
+		id: 25,
 		title: 'Long Time Girl',
 		year: 2010,
 		description: ' ',
 		audioUrl: '/media/audio/longtimegirl.wav'
     	},
 	{
-		id: 27,
+		id: 26,
 		title: 'Poncho and Lefty',
 		year: 2012,
 		description: 'Cover',
 		audioUrl: '/media/audio/ponchoandlefty.wav'
     	},
 	{
-		id: 28,
+		id: 27,
 		title: 'Clear Blue Picture of a Church',
 		year: 2011,
 		description: ' ',
 		audioUrl: '/media/audio/bytheclearbluepictureofachurch.wav'
     	},
 	{
-		id: 29,
+		id: 28,
 		title: 'The Boxer',
 		year: 2012,
 		description: 'Cover',
 		audioUrl: '/media/audio/theboxer.wav'
     	},
 	{
-		id: 30,
+		id: 29,
 		title: 'Abandoned Love',
 		year: 2012,
 		description: 'Cover',
