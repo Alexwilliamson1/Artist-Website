@@ -208,9 +208,7 @@ function OtherMedia() {
             >
                 <Link to="/lithographs">Lithographs</Link>
                 <Link to="/photographs">Photographs</Link>
-                //<Link to="/collages">Collages</Link>
                 <Link to="/music">Music</Link>
-                //<Link to="/videos">Videos</Link>
             </nav>
         </section>
     );
