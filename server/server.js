@@ -78,139 +78,132 @@ const songs = [
     	},
 	{
 		id: 10,
-		title: 'Bedside Table',
-		year: 2010,
-		description: ' ',
-		audioUrl: '/media/audio/bedsidetable.mp3'
-    	},
-	{
-		id: 11,
 		title: '(Marie\'s the Name) His Latest Flame',
 		year: 2012,
 		description: 'Cover',
 		audioUrl: '/media/audio/hislatestflame.wav'
     	},
 	{
-		id: 12,
+		id: 11,
 		title: 'Lily of the West',
 		year: 2011,
 		description: 'Cover',
 		audioUrl: '/media/audio/lilyofthewest.wav'
     	},
 	{
-		id: 13,
+		id: 12,
 		title: 'Bide My Time',
 		year: 2012,
 		description: ' ',
 		audioUrl: '/media/audio/bidemytime.wav'
     	},
 	{
-		id: 14,
+		id: 13,
 		title: 'Mama You\'ve Been On My Mind',
 		year: 2010,
 		description: 'Cover',
 		audioUrl: '/media/audio/mamayouvebeenonmymind.wav'
     	},
 	{
-		id: 15,
+		id: 14,
 		title: 'The Travel Song',
 		year: 2012,
 		description: ' ',
 		audioUrl: '/media/audio/thetravelsong.wav'
     	},
 	{
-		id: 16,
+		id: 15,
 		title: 'Oregon Trail',
 		year: 2012,
 		description: 'Cover',
 		audioUrl: '/media/audio/oregontrail.wav'
     	},
 	{
-		id: 17,
+		id: 16,
 		title: 'When I\'m Missing You',
 		year: 2012,
 		description: ' ',
 		audioUrl: '/media/audio/whenimmissingyou.wav'
     	},
 	{
-		id: 18,
+		id: 17,
 		title: 'My Darling\'s on the Doorstep',
 		year: 2012,
 		description: ' ',
 		audioUrl: '/media/audio/mydarlingsonthedoorstep.mp3'
     	},	
 	{
-		id: 19,
+		id: 18,
 		title: 'Hallelujah',
 		year: 2011,
 		description: ' ',
 		audioUrl: '/media/audio/hallelujah.wav'
     	},
 	{
-		id: 20,
+		id: 19,
 		title: 'Song for a Songbird',
 		year: 2012,
 		description: ' ',
 		audioUrl: '/media/audio/songforasongbird.wav'
     	},
 	{
-		id: 21,
+		id: 20,
 		title: 'Rambler, Gambler',
 		year: 2010,
 		description: 'Cover',
 		audioUrl: '/media/audio/ramblergambler.wav'
     	},
 	{
-		id: 22,
+		id: 21,
 		title: 'In Cold Blood',
 		year: 2012,
 		description: ' ',
 		audioUrl: '/media/audio/incoldblood.wav'
     	},
 	{
-		id: 23,
+		id: 22,
 		title: 'Froggie Went a Courtin\'',
 		year: 2012,
 		description: ' ',
 		audioUrl: '/media/audio/froggywentacourtin.wav'
     	},
 	{
-		id: 24,
+		id: 23,
 		title: 'Gospel Plow',
 		year: 2011,
 		description: 'Cover',
 		audioUrl: '/media/audio/gospelplow.wav'
     	},
 	{
-		id: 25,
+		id: 24,
 		title: 'Long Time Girl',
 		year: 2010,
 		description: ' ',
 		audioUrl: '/media/audio/longtimegirl.wav'
     	},
 	{
-		id: 26,
+		id: 25,
 		title: 'Poncho and Lefty',
 		year: 2012,
 		description: 'Cover',
 		audioUrl: '/media/audio/ponchoandlefty.wav'
     	},
 	{
-		id: 27,
+		id: 26,
 		title: 'Clear Blue Picture of a Church',
 		year: 2011,
 		description: ' ',
 		audioUrl: '/media/audio/bytheclearbluepictureofachurch.wav'
     	},
 	{
-		id: 28,
+		id: 27,
 		title: 'The Boxer',
 		year: 2012,
 		description: 'Cover',
 		audioUrl: '/media/audio/theboxer.wav'
     	},
 	{
-		id: 29,
+		id: 28,
 		title: 'Abandoned Love',
 		year: 2012,
 		description: 'Cover',
