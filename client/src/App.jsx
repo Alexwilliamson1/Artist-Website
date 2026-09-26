@@ -208,9 +208,9 @@ function OtherMedia() {
             >
                 <Link to="/lithographs">Lithographs</Link>
                 <Link to="/photographs">Photographs</Link>
-                <Link to="/collages">Collages</Link>
+                //<Link to="/collages">Collages</Link>
                 <Link to="/music">Music</Link>
-                <Link to="/videos">Videos</Link>
+                //<Link to="/videos">Videos</Link>
             </nav>
         </section>
     );
@@ -313,20 +313,22 @@ function Videos() {
                 {videos.map(video => (
                     <article key={video.id}>
                         <h2>{video.title}</h2>
+			
+			<div className="video-frame">
+			    <video
+			        controls
+			        preload="metadata"
+			        poster={video.posterUrl}
+			    >
+			        <source
+				    src={video.videoUrl}
+				    type="video/mp4"
+			        />
 
-                        <video
-                            controls
-                            preload="metadata"
-                            poster={video.posterUrl}
-                        >
-                            <source
-                                src={video.videoUrl}
-                                type="video/mp4"
-                            />
-
-                            Your browser does not support video
-                            playback.
-                        </video>
+			        Your browser does not support video
+			        playback.
+			    </video>
+			</div>
 
                         <p>{video.year}</p>
                         <p>{video.description}</p>
