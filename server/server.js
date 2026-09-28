@@ -53,7 +53,7 @@ const songs = [
 		title: 'Jumpin\' Jack Flash',
 		year: 2011,
 		description: 'Cover',
-		audioUrl: '/media/audio/jumpinjackflash.wav'
+		audioUrl: '/media/audio/jumpinjackflash.mp3'
     	},
 	{
 		id: 7,
@@ -164,7 +164,7 @@ const songs = [
 		id: 22,
 		title: 'Froggie Went a Courtin\'',
 		year: 2012,
-		description: ' ',
+		description: 'Cover',
 		audioUrl: '/media/audio/froggywentacourtin.wav'
     	},
 	{
