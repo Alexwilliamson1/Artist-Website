@@ -183,27 +183,34 @@ const songs = [
     	},
 	{
 		id: 25,
+		title: 'One Too Many Mornings',
+		year: 2012,
+		description: 'Cover',
+		audioUrl: '/media/audio/onetoomanymornings.wav'
+    	},
+	{
+		id: 26,
 		title: 'Poncho and Lefty',
 		year: 2012,
 		description: 'Cover',
 		audioUrl: '/media/audio/ponchoandlefty.wav'
     	},
 	{
-		id: 26,
+		id: 27,
 		title: 'Clear Blue Picture of a Church',
 		year: 2011,
 		description: ' ',
 		audioUrl: '/media/audio/bytheclearbluepictureofachurch.wav'
     	},
 	{
-		id: 27,
+		id: 28,
 		title: 'The Boxer',
 		year: 2012,
 		description: 'Cover',
 		audioUrl: '/media/audio/theboxer.wav'
     	},
 	{
-		id: 28,
+		id: 29,
 		title: 'Abandoned Love',
 		year: 2012,
 		description: 'Cover',
