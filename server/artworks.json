@@ -273,7 +273,7 @@
         "medium": "Oil on canvas",
         "dimensions": " ",
         "description": " ",
-        "altText": "A small oil painting of The Return of the Prodigal Son by Rembrandt.",
+        "altText": "A self portrait painted in oils.",
         "thumbnailUrl": "/media/images/paintings/self-portrait-5-3(done).jpg",
         "imageUrl": "/media/images/paintings/self-portrait-5-3(done).jpg",
         "displayOrder": 20,
@@ -1050,6 +1050,20 @@
         "isFeatured": 1
     },
     {
+        "title": "Football Player",
+        "slug": "football-player",
+        "year": 2011,
+        "category": "drawing",
+        "medium": "Pencil, oil paint, and watercolour on paper",
+        "dimensions": " ",
+        "description": " ",
+        "altText": "A colourful painted drawing of a football player with a ball.",
+        "thumbnailUrl": "/media/images/drawings/football-player(done).jpg",
+        "imageUrl": "/media/images/drawings/football-player(done).jpg",
+        "displayOrder": 16,
+        "isFeatured": 1
+    },
+    {
         "title": "Head (After Picasso)",
         "slug": "head-after-picasso",
         "year": 2010,
@@ -1060,7 +1074,7 @@
         "altText": ".",
         "thumbnailUrl": "/media/images/drawings/head-after-picasso-1(done).jpg",
         "imageUrl": "/media/images/drawings/head-after-picasso-1(done).jpg",
-        "displayOrder": 16,
+        "displayOrder": 17,
         "isFeatured": 1
     },
     {
@@ -1074,7 +1088,7 @@
         "altText": "A pencil drawing of a female opera singer after a painting by Edgar Degas.",
         "thumbnailUrl": "/media/images/drawings/portrait-of-a-woman-after-degas-1(done).jpg",
         "imageUrl": "/media/images/drawings/portrait-of-a-woman-after-degas-1(done).jpg",
-        "displayOrder": 17,
+        "displayOrder": 18,
         "isFeatured": 1
     },
     {
@@ -1088,7 +1102,7 @@
         "altText": "A conte crayon drawing of The Kiss by Henri de Toulouse-Lautrec.",
         "thumbnailUrl": "/media/images/drawings/the-kiss-after-toulouse-lautrec-1(done).jpg",
         "imageUrl": "/media/images/drawings/the-kiss-after-toulouse-lautrec-1(done).jpg",
-        "displayOrder": 18,
+        "displayOrder": 19,
         "isFeatured": 1
     },
     {
@@ -1102,7 +1116,7 @@
         "altText": "A colourful pencil and crayon drawing of a plant with stripes.",
         "thumbnailUrl": "/media/images/drawings/plant-with-stripes-1(done).jpg",
         "imageUrl": "/media/images/drawings/plant-with-stripes-1(done).jpg",
-        "displayOrder": 19,
+        "displayOrder": 20,
         "isFeatured": 1
     },
     {
@@ -1116,7 +1130,7 @@
         "altText": "A conte drawing of a face with simple straight and curved lines.",
         "thumbnailUrl": "/media/images/drawings/face-1(done).jpg",
         "imageUrl": "/media/images/drawings/face-1(done).jpg",
-        "displayOrder": 20,
+        "displayOrder": 21,
         "isFeatured": 1
     },
     {
@@ -1130,7 +1144,7 @@
         "altText": "A colourful pencil and crayon drawing of Bob Dylan from a video still.",
         "thumbnailUrl": "/media/images/drawings/portrait-of-bob-dylan-2(done).jpg",
         "imageUrl": "/media/images/drawings/portrait-of-bob-dylan-2(done).jpg",
-        "displayOrder": 21,
+        "displayOrder": 22,
         "isFeatured": 1
     },
     {
@@ -1144,7 +1158,7 @@
         "altText": "A large gestural charcoal drawing of a lying man from life.",
         "thumbnailUrl": "/media/images/drawings/man-life-drawing-1(done).jpg",
         "imageUrl": "/media/images/drawings/man-life-drawing-1(done).jpg",
-        "displayOrder": 22,
+        "displayOrder": 23,
         "isFeatured": 1
     },
     {
@@ -1158,7 +1172,7 @@
         "altText": "A gestural conte crayon drawing of Christ.",
         "thumbnailUrl": "/media/images/drawings/christ-1(done).jpg",
         "imageUrl": "/media/images/drawings/christ-1(done).jpg",
-        "displayOrder": 23,
+        "displayOrder": 24,
         "isFeatured": 1
     },
     {
@@ -1172,7 +1186,7 @@
         "altText": "A large oil stick drawing of The Lady with Fans, Portrait of Nina de Callias by Edouard Manet.",
         "thumbnailUrl": "/media/images/drawings/woman-after-manet-2(done).jpg",
         "imageUrl": "/media/images/drawings/woman-after-manet-2(done).jpg",
-        "displayOrder": 24,
+        "displayOrder": 25,
         "isFeatured": 1
     },
     {
@@ -1186,7 +1200,7 @@
         "altText": "A gestural pencil drawing of a boy raising his hands on a white background.",
         "thumbnailUrl": "/media/images/drawings/boy-2(done).jpg",
         "imageUrl": "/media/images/drawings/boy-2(done).jpg",
-        "displayOrder": 25,
+        "displayOrder": 26,
         "isFeatured": 1
     },
     {
@@ -1200,7 +1214,7 @@
         "altText": "A conte crayon drawing of a portrait of a man by Diego Velazquez.",
         "thumbnailUrl": "/media/images/drawings/portrait-of-a-man-1(done).jpg",
         "imageUrl": "/media/images/drawings/portrait-of-a-man-1(done).jpg",
-        "displayOrder": 26,
+        "displayOrder": 27,
         "isFeatured": 1
     },
     {
@@ -1214,7 +1228,7 @@
         "altText": "26 brand logos for companies including Banana Boat, Royale, and MGA Entertainment, drawn in coloured chalk on a chalkwall.",
         "thumbnailUrl": "/media/images/drawings/chalk-logos-for-paradigm-public-relations-1(done).jpg",
         "imageUrl": "/media/images/drawings/chalk-logos-for-paradigm-public-relations-1(done).jpg",
-        "displayOrder": 27,
+        "displayOrder": 28,
         "isFeatured": 1
     },
     {
@@ -1228,7 +1242,7 @@
         "altText": "A pencil drawing of John Deakin by Lucian Freud.",
         "thumbnailUrl": "/media/images/drawings/portrait-of-john-deakin-after-freud-1(done).jpg",
         "imageUrl": "/media/images/drawings/portrait-of-john-deakin-after-freud-1(done).jpg",
-        "displayOrder": 28,
+        "displayOrder": 29,
         "isFeatured": 1
     },
     {
@@ -1242,7 +1256,7 @@
         "altText": "A pencil drawing of a man holding a child.",
         "thumbnailUrl": "/media/images/drawings/man-with-child-1(done).jpg",
         "imageUrl": "/media/images/drawings/man-with-child-1(done).jpg",
-        "displayOrder": 29,
+        "displayOrder": 30,
         "isFeatured": 1
     },
     {
@@ -1256,7 +1270,21 @@
         "altText": "A large, colourful drawing of a naked baby in pencil, oil pastel, and oil stick.",
         "thumbnailUrl": "/media/images/drawings/baby-1(done).jpg",
         "imageUrl": "/media/images/drawings/baby-1(done).jpg",
-        "displayOrder": 30,
+        "displayOrder": 31,
+        "isFeatured": 1
+    },
+    {
+        "title": "Dancer (After Degas)",
+        "slug": "dancer-after-degas",
+        "year": 2011,
+        "category": "drawing",
+        "medium": "Pencil on paper",
+        "dimensions": " ",
+        "description": " ",
+        "altText": "A pencil drawing of a young ballet dancer after a painting by Edgar Degas.",
+        "thumbnailUrl": "/media/images/drawings/dancer-1(done).jpg",
+        "imageUrl": "/media/images/drawings/dancer-1(done).jpg",
+        "displayOrder": 32,
         "isFeatured": 1
     },
     {
@@ -1270,7 +1298,7 @@
         "altText": "A pen drawing of a Spanish boy playing guitar after an artwork by Francisco Goya.",
         "thumbnailUrl": "/media/images/drawings/boy-with-guitar-after-goya-1(done).jpg",
         "imageUrl": "/media/images/drawings/boy-with-guitar-after-goya-1(done).jpg",
-        "displayOrder": 31,
+        "displayOrder": 33,
         "isFeatured": 1
     },
     {
@@ -1284,7 +1312,7 @@
         "altText": "A large expressionistic oil stick drawing of a woman.",
         "thumbnailUrl": "/media/images/drawings/woman-1(done).jpg",
         "imageUrl": "/media/images/drawings/woman-1(done).jpg",
-        "displayOrder": 32,
+        "displayOrder": 34,
         "isFeatured": 1
     },
     {
@@ -1298,7 +1326,7 @@
         "altText": "A conte crayon drawing of Jeannette V by Henri Matisse.",
         "thumbnailUrl": "/media/images/drawings/head-after-matisse-1(done).jpg",
         "imageUrl": "/media/images/drawings/head-after-matisse-1(done).jpg",
-        "displayOrder": 33,
+        "displayOrder": 35,
         "isFeatured": 1
     },
     {
@@ -1312,7 +1340,7 @@
         "altText": "A portrait of Harold Rosenberg drawn with pen on paper.",
         "thumbnailUrl": "/media/images/drawings/portrait-of-harold-rosenberg-1(done).jpg",
         "imageUrl": "/media/images/drawings/portrait-of-harold-rosenberg-1(done).jpg",
-        "displayOrder": 34,
+        "displayOrder": 36,
         "isFeatured": 1
     },
     {
@@ -1326,7 +1354,7 @@
         "altText": "A conte drawing of a face with simple straight and curved lines.",
         "thumbnailUrl": "/media/images/drawings/face-2(done).jpg",
         "imageUrl": "/media/images/drawings/face-2(done).jpg",
-        "displayOrder": 35,
+        "displayOrder": 37,
         "isFeatured": 1
     },
     {
@@ -1340,7 +1368,7 @@
         "altText": "A gestural charcoal drawing of Bal du moulin de la Galette by Pierre-Auguste Renoir.",
         "thumbnailUrl": "/media/images/drawings/dance-after-renoir-1(done).jpg",
         "imageUrl": "/media/images/drawings/dance-after-renoir-1(done).jpg",
-        "displayOrder": 36,
+        "displayOrder": 38,
         "isFeatured": 1
     },
     {
