@@ -142,7 +142,7 @@ function Home() {
                 </p>
 
                 <p>
-               	Alex’s sculptures are mostly made from found materials and are influenced by the minimalist and post-minimalist works of Donald Judd, Richard Tuttle, and many others.
+               	Alex’s sculptures are mostly made from found materials and are influenced by the works of Ellsworth Kelly, Richard Tuttle, and many others.
                 </p>
             </div>
         </section>
